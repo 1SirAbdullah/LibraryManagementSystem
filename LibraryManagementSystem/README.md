@@ -36,25 +36,24 @@ The **Library Management System** is a Java-based console application that helps
     
     `java LibraryManagementSystem`
 
+## User Guide
 
-    ## User Guide
-
-### Adding a Book:
+### 📚 Adding a Book:
 1. Select the option to add a new book.
 2. Enter the book title, author, and number of copies.
 3. The book will be added to the library collection.
 
-### Issuing a Book:
+### 📖 Issuing a Book:
 1. Select the option to issue a book.
 2. Enter the book title and the user’s ID.
 3. The book will be marked as issued.
 
-### Returning a Book:
+### ✅ Returning a Book:
 1. Select the option to return a book.
 2. Enter the book title and the user’s ID.
 3. The book will be marked as returned and become available for others.
 
-### Generating Reports:
+### 📝 Generating Reports:
 - View all issued books.
 - View all available books.
 
