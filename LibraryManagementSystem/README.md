@@ -22,7 +22,7 @@ The **Library Management System** is a Java-based console application that helps
 ### Steps to Install:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/1SirAbdullah/library-management-system.git
 2.  **Navigate to the Project Directory**:
 
     `cd library-management-system` 
