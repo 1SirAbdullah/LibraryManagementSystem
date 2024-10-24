@@ -126,10 +126,5 @@ Goodreads API
 1. [Google Books API Documentation](https://developers.google.com/books) provides an excellent resource for automating the fetching of book metadata.
 2. The [Open Library API](https://openlibrary.org/developers/api) is another great resource for accessing free and open book metadata for library systems.
 
----
 
-
-## Image
-
-![Libary](8074804.png)
 
