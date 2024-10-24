@@ -3,7 +3,6 @@
 The **Library Management System** is a Java-based console application that helps librarians manage book collections, track borrowing and return status, and maintain book availability reports. 
 
 ---
-## Image
 
 ![Libary](8074804.png)
 
