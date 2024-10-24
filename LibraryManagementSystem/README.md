@@ -3,6 +3,9 @@
 The **Library Management System** is a Java-based console application that helps librarians manage book collections, track borrowing and return status, and maintain book availability reports. 
 
 ---
+## Image
+
+![Libary](8074804.png)
 
 ## Key Features
 - **Add Books**: Add new books to the library's catalog.
@@ -125,35 +128,6 @@ Goodreads API
 
 ---
 
-## Emojis
-
-To enhance the readability and engagement of the **Library Management System**, we use relevant emojis:
-
-- 📚 for **Book Management**
-- 📖 for **Issuing Books**
-- ✅ for **Returning Books**
-- 📝 for **Generating Reports**
-
----
-
-## Emphasis
-
-We have used various Markdown text formatting for emphasis:
-
-- **Bold** for **important features**.
-- *Italics* for *highlighting examples*.
-- ~~Strikethrough~~ to indicate outdated or deprecated functionality.
-- Superscript (e.g., x²) and subscript (e.g., H₂O) where appropriate in mathematical or chemical contexts (if relevant to future extensions of the project).
-
----
-
-## Horizontal Rule
-
----
-
-This horizontal rule visually separates different sections of the documentation.
-
----
 
 ## Image
 
